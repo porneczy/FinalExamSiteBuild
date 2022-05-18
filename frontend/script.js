@@ -15,7 +15,7 @@ const cardComponent = ({title, sub, text}, index) =>  `
         <p class="title">${title}</p>
         <p class="text">${text}</p>
         <button class="rmBtn">
-            read more<span class="material-symbols-outlined">
+            read more<span class="material-symbols-outlined arrow">
             arrow_forward
             </span>
         </button>
